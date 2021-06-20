@@ -1,5 +1,5 @@
 # SnakeGame
-The classic snake game. Made with Turtle Graphics in python.
+## The classic snake game. Made with Turtle Graphics in python.
 ![Demo of the Snake Game](https://media.giphy.com/media/EoN9BhGMs6CvxJ9EBc/giphy.gif)
 
 # Requirements
