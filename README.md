@@ -13,7 +13,8 @@ The classic snake game. Made with Turtle Graphics in python.
 * Open the text editor of your choice.
 * Open the terminal
 * ```bash
-  cd # the directory where main.py is stored
+  git clone https://github.com/MayankVaswani100/SnakeGame.git
+  cd SnakeGame/
   python main.py
   ```
 * To contact me [Join the support server!!](https://discord.gg/nZTfXVkwg7 "Support Server")
